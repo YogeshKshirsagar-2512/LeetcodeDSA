@@ -5,7 +5,6 @@ class Solution {
 public:
     vector<int> getRow(int rowIndex) {
         vector<vector<int>> ans;
-        vector<int> result;
         for(int i = 1 ; i <= rowIndex+1; i++){
             ans.push_back(vector<int>(i,1));
         }
@@ -15,10 +14,7 @@ public:
             }
         }
 
-        for(int j = 0 ; j < ans[rowIndex].size() ; j++){
-            result.push_back(ans[rowIndex][j]);
-        }
-        return result;
+        return ans[rowIndex];
 
     }
 };
