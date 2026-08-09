@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0118-pascals-triangle) |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
