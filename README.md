@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
