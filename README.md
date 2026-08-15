@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
