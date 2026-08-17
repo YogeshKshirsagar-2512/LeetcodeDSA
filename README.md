@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
