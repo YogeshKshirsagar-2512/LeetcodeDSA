@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0881-boats-to-save-people) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
