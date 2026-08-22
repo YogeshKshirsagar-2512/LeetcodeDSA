@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
