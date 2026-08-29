@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -131,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
