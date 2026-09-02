@@ -6,7 +6,7 @@ public:
         else return true;
     }
     bool isPalindrome(string s) {
-
+        
         int i = 0 ;
         int j = s.size()-1;
 
