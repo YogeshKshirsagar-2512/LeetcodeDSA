@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
