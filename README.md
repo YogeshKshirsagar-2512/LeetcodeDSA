@@ -148,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
