@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0054-spiral-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
