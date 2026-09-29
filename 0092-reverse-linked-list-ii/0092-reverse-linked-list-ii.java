@@ -46,13 +46,5 @@ class Solution {
         left_next.next = right_next;
         return dummy.next;
 
-
-
-
-        
-
-
-        
-
     }
 }
