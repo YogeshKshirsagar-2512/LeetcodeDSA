@@ -10,16 +10,25 @@ public:
         // }
         // return sum - vector_sum;
 
+        // vector<bool> flag(nums.size()+1, false);
+        // for(int i = 0 ; i < nums.size(); i++){
+        //     flag[nums[i]] = true;
+        // }
+        // for(int i =  0 ; i < flag.size(); i++){
+        //     if(flag[i] == false){
+        //         return i;
+        //     }
+        // }
+        // return nums.size();
+        
+
         vector<bool> flag(nums.size()+1, false);
         for(int i = 0 ; i < nums.size(); i++){
             flag[nums[i]] = true;
         }
-        for(int i =  0 ; i < flag.size(); i++){
-            if(flag[i] == false){
-                return i;
-            }
+        for(int i = 0 ; i < flag.size(); i++){
+            if(flag[i] == false) return i;
         }
-        return nums.size();
-
+        return -1;
     }
 };
