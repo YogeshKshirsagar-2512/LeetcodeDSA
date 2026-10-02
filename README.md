@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0119-pascals-triangle-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0242-valid-anagram) |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
