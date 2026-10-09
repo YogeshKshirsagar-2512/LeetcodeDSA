@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0443-string-compression) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
