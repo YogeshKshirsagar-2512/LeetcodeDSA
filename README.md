@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
