@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/0324-wiggle-sort-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/YogeshKshirsagar-2512/LeetcodeDSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
